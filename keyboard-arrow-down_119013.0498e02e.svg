@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="12" height="7" viewBox="0 0 12 7">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_3" data-name="Retângulo 3" width="12" height="7" transform="translate(844 -82)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_2" data-name="Grupo de máscara 2" transform="translate(-844 82)" clip-path="url(#clip-path)">
+    <g id="Icons" transform="translate(821 -70)">
+      <g id="Rounded" transform="translate(-593 -2479)">
+        <g id="Hardware" transform="translate(100 2404)">
+          <g id="_-Round-_-Hardware-_-keyboard_arrow_down" data-name="-Round-/-Hardware-/-keyboard_arrow_down" transform="translate(510 54)">
+            <g id="Grupo_1" data-name="Grupo 1">
+              <rect id="Rectangle-Copy-103" width="24" height="24" fill="none"/>
+              <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M8.12,9.29,12,13.17l3.88-3.88a1,1,0,1,1,1.41,1.41L12.7,15.29a1,1,0,0,1-1.41,0L6.7,10.7a1,1,0,0,1,0-1.41A1.017,1.017,0,0,1,8.12,9.29Z" fill="#f45152" fill-rule="evenodd"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
